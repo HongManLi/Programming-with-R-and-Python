@@ -1,0 +1,5 @@
+This data used in these two programs (one in R, the other in Python)
+comes from http://hospitalcompare.hhs.gov, and contains information 
+about the quality of care of over 4000 Medicare-certified hospitals 
+in the US. Quality of care of each hospital will be assessed here by 
+the outcome "30 Day death rate from heart attack/ pneumonia/ heart failure".
